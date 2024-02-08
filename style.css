@@ -1,0 +1,21 @@
+.container-fluid{
+    
+    
+    width:400px;
+    height: 250px;
+    border-style:groove;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px black;
+}
+
+ .para{
+    box-shadow: 10px 5px 5px black;
+    margin-left: 20px;
+ }
+ body{
+    background-color:rgb(136, 139, 89);
+ }
+ .submit{
+    margin-right: 20px;
+ }
+  
